@@ -3,3 +3,7 @@ username
 password
 
 ....
+
+updating with new logo
+
+adding spacial message
