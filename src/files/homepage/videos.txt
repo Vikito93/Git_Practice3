@@ -8,3 +8,6 @@
    likes
 
 
+stars
+
+added new videos
